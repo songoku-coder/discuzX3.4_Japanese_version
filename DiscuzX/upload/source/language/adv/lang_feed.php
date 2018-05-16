@@ -13,8 +13,8 @@ if(!defined('IN_DISCUZ')) {
 
 $lang = array
 (
-	'feed_name' => '空间 动态广告',
-	'feed_desc' => '展现方式: 日志广告显示于动态的上方。',
+	'feed_name' => 'マイページ動的広告',
+	'feed_desc' => '展示方式: 出稿広告はタイムラインの上に表示。',
 );
 
 ?>

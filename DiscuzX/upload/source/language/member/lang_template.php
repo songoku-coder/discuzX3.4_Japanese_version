@@ -10,7 +10,7 @@
  */
 
 $lang = array (
-  'getpassword' => '找回密码',
+  'getpassword' => 'パスワード忘れた？',
   'login_guest' => '没有帐号？<a href="member.php?mod={$_G[setting][regname]}">{$_G[setting][reglinkname]}</a>',
   'new_password' => '新密码',
   'new_password_confirm' => '确认密码',

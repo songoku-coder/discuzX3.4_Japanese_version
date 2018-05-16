@@ -13,23 +13,23 @@ if(!defined('IN_DISCUZ')) {
 
 $lang = array
 (
-	'float_name' => '全局 漂浮广告',
-	'float_desc' => '展现方式: 漂浮广告展现于页面左下角，当页面滚动时广告会自行移动以保持原来的位置，通常使用小图片或 Flash 的形式。当前页面有多个漂浮广告时，系统会随机选取其中之一显示。<br />价值分析: 漂浮广告是进行强力商业推广的有效手段，其在页面中的浮动性，使其与固定的图片和文字相比，更容易被关注，正因为如此，这种强制性的关注也可能招致对此广告内容不感兴趣的访问者的反感。请注意不要将过大的图片或 Flash 以漂浮广告的形式显示，以免影响页面阅读。',
-	'float_index' => '首页',
-	'float_fids' => '投放版块',
-	'float_fids_comment' => '设置广告投放的论坛版块，当广告投放范围中包含“论坛”时有效',
-	'float_groups' => '投放群组分类',
-	'float_groups_comment' => '设置广告投放的群组分类，当广告投放范围中包含“群组”时有效',
-	'float_position' => '漂浮位置',
-	'float_position_comment' => '设置广告漂浮的位置',
+	'float_name' => '全局フローティング広告',
+	'float_desc' => '展示方式:フローティング広告は画面左下側に表示、画像やFlashで表示。<br />価値分析:フローティング広告は一番有効な宣伝手段、大きすぎの画像はお薦めません',
+	'float_index' => 'ホーム',
+	'float_fids' => '出稿フォーラム',
+	'float_fids_comment' => '出稿フォーラムを設定',
+	'float_groups' => '出稿グループ',
+	'float_groups_comment' => '出稿グループを設定',
+	'float_position' => 'フローティング位置',
+	'float_position_comment' => 'フローティング位置を設定',
 	'float_position_left' => '左侧',
 	'float_position_right' => '右侧',
-	'float_category' => '投放门户频道',
-	'float_category_comment' => '设置广告投放的频道分类，当广告投放范围中包含“门户”时有效',
-	'float_disableclose' => '关闭广告的链接',
-	'float_disableclose_comment' => '如果广告代码中已内置关闭操作，可以关闭系统预置的关闭链接',
-	'float_show' => '显示',
-	'float_hidden' => '隐藏',
+	'float_category' => '出稿チャネル',
+	'float_category_comment' => '出稿チャネルを設定',
+	'float_disableclose' => '広告のリンクを閉じる',
+	'float_disableclose_comment' => '広告のリンクを閉じる',
+	'float_show' => '表示',
+	'float_hidden' => '隠し',
 );
 
 ?>
